@@ -1,4 +1,5 @@
-### Hi there 👋
+## My name is Lisa Copeland and I am a fullstack web developer.
+
 
 <!--
 **lisacopeland/lisacopeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
