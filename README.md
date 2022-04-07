@@ -1,5 +1,7 @@
 ## My name is Lisa Copeland and I am a fullstack web developer.
 
+See my images here
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/lisacopeland/lisacopeland/images/Mygraphapp.png”>
 
 <!--
 **lisacopeland/lisacopeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
