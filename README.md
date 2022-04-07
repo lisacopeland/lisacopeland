@@ -1,9 +1,9 @@
 ## My name is Lisa Copeland and I am a fullstack web developer.
 
 See my images here
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“./images/Mygraphapp.png”>
+<img width=“500” alt=“java 8 and prio java 8  array review example” src=“https://user-images.githubusercontent.com/22330654/162267497-2f3cf2a3-3f65-4174-80af-f04994c90066.png”>
 
-![Mygraphapp](https://user-images.githubusercontent.com/22330654/162267497-2f3cf2a3-3f65-4174-80af-f04994c90066.png)
+![Mygraphapp](https://user-images.githubusercontent.com/22330654/162267497-2f3cf2a3-3f65-4174-80af-f04994c90066.png){:height="500px"}
 
 
 
