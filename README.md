@@ -2,7 +2,7 @@
 
 See my images here
 
-![Mygraphapp](https://user-images.githubusercontent.com/22330654/162267497-2f3cf2a3-3f65-4174-80af-f04994c90066.png){:height="500px"}.
+![Mygraphapp](https://user-images.githubusercontent.com/22330654/162267497-2f3cf2a3-3f65-4174-80af-f04994c90066.png){:height="36px" width="36px"}.
 
 
 
