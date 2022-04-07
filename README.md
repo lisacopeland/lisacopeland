@@ -1,13 +1,5 @@
 ## My name is Lisa Copeland and I am a fullstack web developer.
 
-See my images here
-
-![Mygraphapp](https://user-images.githubusercontent.com/22330654/162267497-2f3cf2a3-3f65-4174-80af-f04994c90066.png){:height="36px" width="36px"}.
-
-
-
-
-
 <!--
 **lisacopeland/lisacopeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
