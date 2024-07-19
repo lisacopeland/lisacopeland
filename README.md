@@ -6,8 +6,10 @@
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/primeng.png "Primeng Logo")
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/rxjs.jpg "Rxjs Logo")
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/Typescript.png "Typescript Logo")
-![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/azure sql.png "Typescript Logo")
+![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/azuresql.png "Typescript Logo")
+
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/jasmine.png "Typescript Logo")
+
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/okta.png "Typescript Logo")
 
 <!--
