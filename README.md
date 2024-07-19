@@ -4,10 +4,8 @@
 
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/angular_gradient.png "Angular Logo")
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/primeng.png "Primeng Logo")
-![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/rxjs.png "Rxjs Logo")
+![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/rxjs.jpg "Rxjs Logo")
 ![logo](https://github.com/lisacopeland/lisacopeland/blob/main/images/Typescript.png "Typescript Logo")
-
-<a href="https://aws.amazon.com/what-is-cloud-computing"><img src="https://d0.awsstatic.com/logos/powered-by-aws.png" height=250 alt="Powered by AWS Cloud Computing"></a>
 
 <!-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
