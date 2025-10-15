@@ -57,7 +57,7 @@ I’m a full-stack engineer with 10+ years of experience shipping modern web app
 ---
 
 ## Extras
-- 🐎 Co-run **San Sebastian Equestrian Center** (I built and maintain the site/ops).  
+- 🐎 Own and Manage Horse Boarding Farm **San Sebastian Equestrian Center** 
 - 🧭 Enjoy travel planning & complex logistics.  
 - 🧑‍🏫 Mentor devs and write DX notes.
 
