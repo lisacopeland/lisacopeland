@@ -51,13 +51,6 @@ I’m a full-stack engineer with 10+ years of experience shipping modern web app
   <img src="https://img.shields.io/badge/AG%20Grid-00BC7F?logo=aggrid&logoColor=white" alt="AG Grid" />
 </p>
 
----
-
-## Selected work
-- **DrainData** — Patient app to track JP drain output (Angular/Vue, .NET & Node APIs, DynamoDB). Exploring **Epic FHIR / SMART-on-FHIR** for clinician tools.  
-- **StoryTaim** — Creative-writing platform (Node/TS, MongoDB Atlas + GridFS, AWS).  
-- Various client projects: **Angular migrations**, performance/a11y fixes, CI/CD, secure integrations.
-
 > Want to collaborate or need an Angular upgrade/rescue?  
 > **👉 <a href="mailto:lisacope@msn.com">Email me</a>** or **book a call** via my portfolio.
 
