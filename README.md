@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:lisacope@msn.com"><b>Email</b></a> ·
-  <a href="[https://www.linkedin.com/in/lisacope/" target="_blank"><b>LinkedIn</b></a> ·
+  <a href="https://www.linkedin.com/in/lisacope/" target="_blank"><b>LinkedIn</b></a> ·
   <a href="https://your-portfolio-site.com" target="_blank"><b>Portfolio</b></a>
 </p>
 
